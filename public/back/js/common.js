@@ -48,6 +48,8 @@ $(".icon_menu").on("click",function(){
     $(".lt_aside").toggleClass("now");
     //让从侧边栏慢慢的边长
     $(".lt_main").toggleClass("now");
+
+    $(".lt_header").toggleClass("now");
 });
 
 //公用的退出功能
