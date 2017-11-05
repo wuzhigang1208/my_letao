@@ -59,7 +59,7 @@ a:link, a:visited, a:hover, a:active {
   height: 150px;
 }
 
-.user img{
+.lt_aside .user img{
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -67,7 +67,7 @@ a:link, a:visited, a:hover, a:active {
   display: block;
 }
 
-.user p{
+.lt_aside .user p{
   height: 40px;
   line-height: 40px;
   text-align: center;
